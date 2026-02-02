@@ -1,5 +1,5 @@
 {
-  "name": "braintrust-api-tester",
+  "name": "web-api-cli",
   "version": "1.0.0",
   "description": "CLI tool for testing API calls",
   "main": "src/app.js",
