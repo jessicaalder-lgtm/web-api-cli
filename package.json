@@ -1,0 +1,17 @@
+{
+  "name": "braintrust-api-tester",
+  "version": "1.0.0",
+  "description": "CLI tool for testing API calls",
+  "main": "src/app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/app.js",
+    "server": "node src/server.js"
+  },
+  "dependencies": {
+    "@inquirer/prompts": "^7.0.0",
+    "axios": "^1.7.0",
+    "dotenv": "^16.4.0",
+    "express": "^4.21.0"
+  }
+}
